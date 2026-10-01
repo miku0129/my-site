@@ -1,10 +1,14 @@
 body {
   font-family: sans-serif;
-  background-color: gold;
+  background-color: forestgreen;
 }
 
 h1 {
   padding-left: 30px;
+}
+
+p, li {
+  color: gold;
 }
 
 img {
@@ -23,7 +27,7 @@ img {
 }
 
 .sub-paragraph {
-  color: gray;
+  color: white;
   font-size: small;
 }
 
