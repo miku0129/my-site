@@ -144,7 +144,7 @@ const fillSidebar = () => {
 
 const fillPage = () => {
   const feat = PRESENTATION().info;
-  const strengthSection = document.querySelector("#strength");
+  const strengthSection = document.querySelector("#my-career");
   for (const [key, val] of Object.entries(feat)) {
     const headder = document.createElement("h2");
     headder.textContent = key;

@@ -44,8 +44,7 @@ li {
   word-break: break-word;
 }
 
-#strength ul,
-#experience ul {
+#my-career ul {
   padding-inline-start: initial;
 }
 
